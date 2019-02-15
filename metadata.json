@@ -1,0 +1,6 @@
+{
+  "name": "Monte Carlo Simulation",
+  "description": "Monte Carlo Simulation implemented in C++ and visualised using the SFML graphics framework",
+  "tags": ["C++", "SFML"],
+  "scale": "small"
+}
